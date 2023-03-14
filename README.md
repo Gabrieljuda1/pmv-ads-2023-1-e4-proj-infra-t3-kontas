@@ -1,23 +1,26 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+DESENVOLVIMENTO DE APLICAÇÃO DISTRIBUÍDA
 
-`SEMESTRE`
+4° SEMESTRE
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O gerenciamento de contas pode ser uma tarefa complexa, especialmente para quem precisa lidar com várias contas diferentes ao mesmo tempo. Nesse sentido, um aplicativo de gerenciamento de contas pode ser uma solução eficaz para ajudar os usuários a manterem suas finanças organizadas e em dia.
+
+Com um aplicativo de gerenciamento de contas, é possível centralizar todas as informações financeiras em um só lugar, acompanhar as movimentações de receitas e despesas, configurar alertas de vencimento e receber dicas personalizadas para melhorar o controle financeiro. Além disso, algumas soluções oferecem ainda funcionalidades avançadas, como categorização de despesas e análise de tendências, permitindo que os usuários identifiquem padrões de gastos e façam ajustes em sua rotina financeira. Em resumo, um aplicativo de gerenciamento de contas pode ser uma ferramenta valiosa para ajudar as pessoas a manterem suas finanças em ordem e alcançarem seus objetivos financeiros.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Aline Candido
+* Victor Bruno Kulessa
+* Gabriel Judá de Oliveira
+* Rafael
+* Raíssa
 
 ## Orientador
 
-* Nome completo do professor 1
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
