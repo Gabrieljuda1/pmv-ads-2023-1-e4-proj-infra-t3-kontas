@@ -1,19 +1,80 @@
-# Plano de Testes de Software
+## Plano de teste para o aplicativo Kontas
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+### Escopo do teste
+* Teste do aplicativo
+* Teste das funcionalidades principais do aplicativo, incluindo:
+1. Adição de contas a pagar e a receber
+2. Edição e exclusão de contas 
+3. Visualização de relatórios de contas
+4. Notificação de contas vencidas
+* Teste da Usabilidade e interface do aplicativo
+* Teste do site do aplicativo 
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+### Abordagem de Teste
+* Teste Manual
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+### Requisitos de teste 
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+* Funcionalidades principais do aplicativo:
+1. Adição de contas a pagar e receber
+2. Edição e exclusão de contas 
+3. Visualização de relatórios de contas 
+4. Notificação de contas vencidas
+* Compatibilidade do aplicativo com diferentes dispositivos móveis e sistemas operacionais:
+5. Dispositivos móveis: Android e IOS
+6. Sistemas Operacionais: Android 9 ou superior, IOS 13 ou superior
+* Compatibilidade do site com diferentes navegadores web:
+7. Google Chrome
+8. Mozila Firefox
+9. Safari
+10. Microsoft Edge 
+
+### Ambiente de testes
+
+* Dispositivos Móveis:
+1. Sansung
+2.  Iphone 
+* Navegadores Web:
+3. Google Chrome
+* Ferramenta de testes:
+1. Nenhum
+
+### Critérios de entrada e saída
+
+* Critérios de entrada:
+	* Dispositivos móveis compatíveis com o aplicativo
+	* Navegadores web compatíveis com o site do aplicativo
+	* Contas de testes pré-cadastradas 
+* Critérios de saída:
+	* Relatório de teste
+	* Relatório de Bugs 
+
+
+### Estratégia de teste
+* Teste de funcionalidade
+* Teste de usabilidade
+
+
+### Programação e recursos de teste
+
+* Programação:
+	* Teste de contas a pagar e a receber
+	* Teste de exclusão e edição de contas 
+	* Teste de visualização de relatórios de contas
+	* Teste de notificação de contas vencidas
+* Recursos de teste:
+	* Equipe de teste 
+	* Dispositivos móveis 
+	* Navegador web 
+
+### Procedimento de Execução de Teste 
+* Preparação:
+	* Configuração do ambiente de teste 
+	* Instalação do aplicativo no dispositivo móvel
+	* Acesso ao site pelo navegador web
+	* Preparação das contas de teste
+* Execução: 
+	* Teste de adição de contas a pagar e receber 
+		* Verificar se as contas são adicionadas corretamente 
+		* Verificar se as informações das contas são preenchidas corretamente
+	* Teste de edição e exclusão de contas   
